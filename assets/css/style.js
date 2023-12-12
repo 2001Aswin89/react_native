@@ -9,7 +9,7 @@ export const commonStyles = StyleSheet.create({
     width: '100%',
   },
   button__num: {
-    width: 50,
-    height: 50,
+    width: '33%',
+    height: 80,
   },
 });
