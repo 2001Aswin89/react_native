@@ -5,11 +5,11 @@ export const commonStyles = StyleSheet.create({
     flex: 1,
     justifyContent: 'center',
     alignItems: 'center',
-    height: '400px',
+    height: 400,
     width: '100%',
   },
   button__num: {
-    width: "30px",
-    height: "30px",
-  }
+    width: 50,
+    height: 50,
+  },
 });
